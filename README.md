@@ -48,6 +48,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0283-move-zeroes](https://github.com/rudraagarwal01/swe-prep/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/rudraagarwal01/swe-prep/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/rudraagarwal01/swe-prep/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
@@ -124,6 +125,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/rudraagarwal01/swe-prep/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
