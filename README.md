@@ -42,6 +42,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0001-two-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0008-string-to-integer-atoi](https://github.com/rudraagarwal01/swe-prep/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudraagarwal01/swe-prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
@@ -98,6 +100,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0001-two-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
@@ -175,6 +178,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
