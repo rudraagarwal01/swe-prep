@@ -44,6 +44,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -57,6 +58,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
@@ -65,5 +67,6 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
