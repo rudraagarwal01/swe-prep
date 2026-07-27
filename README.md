@@ -50,6 +50,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0605-can-place-flowers](https://github.com/rudraagarwal01/swe-prep/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rudraagarwal01/swe-prep/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rudraagarwal01/swe-prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rudraagarwal01/swe-prep/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -135,6 +136,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/rudraagarwal01/swe-prep/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rudraagarwal01/swe-prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
