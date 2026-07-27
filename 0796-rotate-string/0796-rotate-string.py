@@ -1,4 +1,8 @@
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
-        return len(s) == len(goal) and goal in (s + s)
-        # if goal is a substring of s + s then it is a valid rotation of s
+        # Step 1: Length check
+        if len(s) != len(goal):
+            return False
+            
+        # Step 2: Check if goal is a substring of (s + s)
+        return goal in (s + s)
