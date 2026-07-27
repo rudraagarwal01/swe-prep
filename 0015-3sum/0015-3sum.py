@@ -30,7 +30,7 @@ class Solution:
                     p1 += 1
                     p2 -= 1
                 
-                # ensures that left pointer is not a duplicate
+                    # ensures that left pointer is not a duplicate
                     while p1 < p2 and sort[p1] == sort[p1 - 1]:
                         p1 += 1
         return res
