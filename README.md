@@ -50,6 +50,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rudraagarwal01/swe-prep/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/rudraagarwal01/swe-prep/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/rudraagarwal01/swe-prep/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rudraagarwal01/swe-prep/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rudraagarwal01/swe-prep/tree/master/0704-binary-search) |
