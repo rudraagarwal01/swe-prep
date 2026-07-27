@@ -10,9 +10,10 @@ class Solution:
                 if temp > max:
                     max = temp
                 temp = 0
+
         if temp > max:
             max = temp
-        
+            
         return max
-
+                
         
