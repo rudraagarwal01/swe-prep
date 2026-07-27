@@ -65,6 +65,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0009-palindrome-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/rudraagarwal01/swe-prep/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 ## String Matching
 |  |
@@ -98,6 +99,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/rudraagarwal01/swe-prep/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
