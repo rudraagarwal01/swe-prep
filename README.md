@@ -60,6 +60,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rudraagarwal01/swe-prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
