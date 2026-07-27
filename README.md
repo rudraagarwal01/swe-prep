@@ -44,6 +44,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/rudraagarwal01/swe-prep/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rudraagarwal01/swe-prep/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String Matching
 |  |
@@ -91,6 +93,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -105,6 +108,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +122,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/rudraagarwal01/swe-prep/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -151,4 +156,5 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
