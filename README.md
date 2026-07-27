@@ -111,6 +111,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rudraagarwal01/swe-prep/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
@@ -178,6 +179,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rudraagarwal01/swe-prep/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
