@@ -1,0 +1,32 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
+
+        if not root:
+            return False
+
+        # The queue holds tuples of (node, the sum of the path down to this node)
+        queue = deque([(root, root.val)])
+
+        while queue:
+            node, curr_sum = queue.popleft()
+
+            # if left and right are empty then check if sum is targetSum
+            if not node.left and not node.right:
+                if curr_sum == targetSum:
+                    return True 
+            
+            # we need to calculate the total value of the root-to-leaf 
+            # adds left node and the curr_sum + value of left node to queue
+            if node.left:
+                queue.append((node.left, curr_sum + node.left.val))
+            # add right node and the curr_sum + value of the right node to queue
+            if node.right:
+                queue.append((node.right, curr_sum + node.right.val))
+          
+        return False
