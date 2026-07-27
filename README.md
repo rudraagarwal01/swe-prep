@@ -42,6 +42,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0001-two-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -113,6 +114,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudraagarwal01/swe-prep/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -181,6 +183,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
