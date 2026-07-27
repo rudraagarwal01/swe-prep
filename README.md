@@ -58,6 +58,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0058-length-of-last-word](https://github.com/rudraagarwal01/swe-prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
+| [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0005-longest-palindromic-substring](https://github.com/rudraagarwal01/swe-prep/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
+| [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
