@@ -44,6 +44,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
+| [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -52,4 +53,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0009-palindrome-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
