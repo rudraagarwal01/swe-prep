@@ -39,6 +39,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
@@ -85,6 +86,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
