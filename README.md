@@ -42,6 +42,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
+| [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
@@ -112,5 +113,6 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
