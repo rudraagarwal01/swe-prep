@@ -44,6 +44,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/rudraagarwal01/swe-prep/tree/master/0058-length-of-last-word) |
@@ -68,6 +69,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -82,4 +84,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
