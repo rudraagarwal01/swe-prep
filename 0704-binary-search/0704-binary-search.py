@@ -9,6 +9,8 @@ class Solution:
             # another index
             mid = (left + right ) // 2
 
+            # if mid is less than target then look at second half
+            # if mid is greater than target then look at first half
             if nums[mid] == target:
                 return mid
             elif nums[mid] < target: 
