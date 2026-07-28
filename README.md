@@ -45,6 +45,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0015-3sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
@@ -149,6 +150,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/rudraagarwal01/swe-prep/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rudraagarwal01/swe-prep/tree/master/0704-binary-search) |
@@ -245,4 +247,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
