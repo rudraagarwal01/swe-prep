@@ -178,6 +178,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rudraagarwal01/swe-prep/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/rudraagarwal01/swe-prep/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -202,6 +203,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rudraagarwal01/swe-prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
 ## Linked List
