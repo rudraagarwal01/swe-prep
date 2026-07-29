@@ -1,6 +1,6 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        # lowest amount of time to eat a pile is one hour
+        # lowest rate of eating a pile of bananas
         left = 1
         # maximum amount of time to eat the largest pile of bananas
         right = max(piles)
@@ -17,8 +17,8 @@ class Solution:
             # if total hours is > given h then we need to increase the speed to greater than the middle
             if total_hours > h:
                 left = mid + 1
-            # if total hours is <= given h then that might be correct speed or too slow
-            # continue to check the slower rate by updating the right index
+            # Speed 'mid' works! It might be our answer, or we might be eating
+            # faster than needed. Keep 'mid' as candidate and check slower speeds.
             else:
                 right = mid
         return left
