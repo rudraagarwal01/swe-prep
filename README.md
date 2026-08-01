@@ -77,6 +77,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudraagarwal01/swe-prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
@@ -111,6 +112,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
@@ -198,6 +200,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0015-3sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
