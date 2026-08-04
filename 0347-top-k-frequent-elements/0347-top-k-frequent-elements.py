@@ -1,31 +1,31 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        # can sort the array first and use two pointer to add amount of same element
-        # can use a dictionary to store the frequency of each element and return top k elements
-        
-        # defaultdict automatically initializes a key if it doesn't exist when it is accessed
-        # dict would throw an error
+        # create a dictionary to store key (num) -> value (freq)
+
+        # this tells it that when a new value needs to be created it will be an int
         count = defaultdict(int)
 
-        # counts the frequency for each number (key is num and value is frequency)
+        # adds to frequency for each num
         for num in nums:
+            # num is the key
             count[num] += 1
         
-        # create stack 
         stack = []
-        # .items() returns a view like a tuple (key, value)
+        # iterate through our dictionary and swap key and value
         for num, freq in count.items():
-            # swap order to [frequency, number]
             stack.append([freq, num])
-        # sorts the array with largest frequencys at the end
+        # sort it so that the greatest frequency goes to the end
         stack.sort()
 
+        # create result array
         res = []
-        # find the top k elements
+        # continue until k elements
         while len(res) < k:
-            # add the last elements
             res.append(stack.pop()[1])
         return res
+
+
+
 
 # class Solution:
 #     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
