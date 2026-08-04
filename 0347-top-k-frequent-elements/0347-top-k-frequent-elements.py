@@ -21,6 +21,7 @@ class Solution:
         res = []
         # continue until k elements
         while len(res) < k:
+            # pop the last element (greatest frequency)
             res.append(stack.pop()[1])
         return res
 
