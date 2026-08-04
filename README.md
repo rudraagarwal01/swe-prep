@@ -260,4 +260,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rudraagarwal01/swe-prep/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
