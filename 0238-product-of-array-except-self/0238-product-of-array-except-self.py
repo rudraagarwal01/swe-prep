@@ -1,6 +1,7 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         # start with the result array filled with 1s
+        # prefix/suffix are basically the current product to the left/right respectively 
         
         n = len(nums)
         ans = [1] * n
@@ -19,7 +20,9 @@ class Solution:
         suffix = 1
         # go backwards
         for i in range(n - 1, -1, -1):
+            # updates the answer with the current suffix value
             ans[i] *= suffix 
+            # # give suffix the value for each index (basically the left side products)
             suffix *= nums[i]
         
         return ans
