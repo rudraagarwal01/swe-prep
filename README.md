@@ -49,6 +49,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/rudraagarwal01/swe-prep/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rudraagarwal01/swe-prep/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +178,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rudraagarwal01/swe-prep/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
