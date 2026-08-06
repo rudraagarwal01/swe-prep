@@ -15,7 +15,7 @@ class Solution:
             prefix *= nums[i]
 
         # At this point, for nums = [1, 2, 3, 4]:
-        # result is now [1, 1, 2, 6] (the product of all numbers to the left of each index)
+        # The result is now [1, 1, 2, 6] (the product of all numbers to the left of each index)
 
         suffix = 1
         # go backwards
