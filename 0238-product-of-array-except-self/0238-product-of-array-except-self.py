@@ -6,7 +6,7 @@ class Solution:
         n = len(nums)
         ans = [1] * n
 
-        # store all numbers in ans before the current num
+        # store all the numbers in ans before the current num
         prefix = 1
         for i in range(n):
             # store the prefix
