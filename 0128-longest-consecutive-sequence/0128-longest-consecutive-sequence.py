@@ -28,12 +28,14 @@
 
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        # 
+        # use a set to remove duplicates
+        # this does NOT sort the nums
         unique = set(nums)
         max_count = 0
         
         for num in unique:
-            # check if there is a number before curr num in set 
+            # ensure that current num is the start of the sequence
+            # let's say are looking at 3 if there is 2 in the set it'll continue 
             if num - 1 in unique: 
                 continue
             
