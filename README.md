@@ -46,6 +46,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
@@ -111,6 +112,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0001-two-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
@@ -286,4 +288,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
