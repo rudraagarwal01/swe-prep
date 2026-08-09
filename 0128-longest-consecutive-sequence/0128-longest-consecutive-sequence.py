@@ -28,16 +28,18 @@
 
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
+        # 
         unique = set(nums)
         longest = 0
         
-        
         for num in unique:
+            # check if there is a number before curr num in set 
             if num - 1 in unique: 
                 continue
             
             length = 1
-
+            
+            # keeps checking for consecutive
             while num + length in unique:
                 length += 1
 
