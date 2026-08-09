@@ -30,22 +30,22 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         # 
         unique = set(nums)
-        longest = 0
+        max_count = 0
         
         for num in unique:
             # check if there is a number before curr num in set 
             if num - 1 in unique: 
                 continue
             
-            length = 1
-            
+            curr_count = 1
+
             # keeps checking for consecutive
-            while num + length in unique:
-                length += 1
+            while num + curr_count in unique:
+                curr_count += 1
 
-            longest = max(longest, length)
+            max_count = max(max_count, curr_count)
 
-        return longest
+        return max_count
 
 # faster complexity
 # O(n)
