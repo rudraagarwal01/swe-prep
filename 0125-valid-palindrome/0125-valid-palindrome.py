@@ -3,13 +3,20 @@ class Solution:
         # two pointer approach
         # compare each value and iterate pointer
         left = 0
-        clean_s = "".join(char.lower() for char in s if char.isalnum())
-        right = len(clean_s) - 1
+        right = len(s) - 1
 
         while left < right:
-            if clean_s[left] == clean_s[right]:
+            # Skip non-alphanumeric characters from left
+            while left < right and not s[left].isalnum():
                 left += 1
+            # Skip non-alphanumeric characters from right
+            while left < right and not s[right].isalnum():
                 right -= 1
-            else:
+
+            # Compare characters in lowercase
+            if s[left].lower() != s[right].lower():
                 return False
+
+            left += 1
+            right -= 1
         return True
