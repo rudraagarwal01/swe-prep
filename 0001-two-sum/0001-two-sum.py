@@ -11,7 +11,7 @@ class Solution:
     def twoSum(self, nums, target):
         seen = {} # dictionary 
         
-        # enumerate iterates and basically stores index and number
+        # enumerate iterates and basically stores the index and number
         # Key is the number(complement)
         # Value is the index
         for i, num in enumerate(nums):
