@@ -85,6 +85,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0125-valid-palindrome](https://github.com/rudraagarwal01/swe-prep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -122,6 +123,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -157,6 +159,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/rudraagarwal01/swe-prep/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
