@@ -16,7 +16,7 @@ class Solution:
                 count[char] += 1
             else:
                 count[char] = 1
-            max_freq = max(max_freq, count[s[right]])
+            max_freq = max(max_freq, count[char])
 
             # 2. If replacements needed exceed k, shrink the window from the left
             while (right - left + 1) - max_freq > k:
