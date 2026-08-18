@@ -30,4 +30,10 @@ class Solution:
                 right = mid
         return nums[left]
 
+
+
+    
+    
+
+
 # O(log n)
