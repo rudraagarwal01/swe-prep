@@ -78,6 +78,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0006-zigzag-conversion](https://github.com/rudraagarwal01/swe-prep/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rudraagarwal01/swe-prep/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rudraagarwal01/swe-prep/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudraagarwal01/swe-prep/tree/master/0058-length-of-last-word) |
@@ -224,6 +225,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rudraagarwal01/swe-prep/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/rudraagarwal01/swe-prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
@@ -302,4 +304,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rudraagarwal01/swe-prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
