@@ -6,6 +6,9 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
+        # use two pointers and if the fast pointer reaches
+        # back to the slow pointer then there exists a cycle
+
         slow = head
         fast = head
 
@@ -14,4 +17,4 @@ class Solution:
             fast = fast.next.next
             if slow == fast:
                 return True
-        return False 
+        return False
