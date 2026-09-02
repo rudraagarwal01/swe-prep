@@ -12,6 +12,7 @@ class Solution:
             return False
 
         # Check if the trees rooted at the current node are identical
+        # this is where the helper is called
         if self.isSameTree(root, subRoot):
             return True
         
