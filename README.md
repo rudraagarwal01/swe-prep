@@ -111,6 +111,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,6 +270,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -284,6 +287,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -320,4 +324,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
