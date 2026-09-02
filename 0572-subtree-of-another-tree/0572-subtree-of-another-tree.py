@@ -18,14 +18,14 @@ class Solution:
         # Otherwise, search down the left and right subtrees of root
         return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
 
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+    def isSameTree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         # Both are null -> identical
-        if not p and not q:
+        if not root and not subRoot:
             return True
         
         # One is null or values differ -> not identical
-        if not p or not q or p.val != q.val:
+        if not root or not subRoot or root.val != subRoot.val:
             return False
         
         # Recurse strictly on corresponding left and right subtrees
-        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+        return self.isSameTree(root.left, subRoot.left) and self.isSameTree(root.right, subRoot.right)
