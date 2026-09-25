@@ -1,29 +1,29 @@
 class Solution:
-    def getAverages(self, nums: list[int], k: int) -> list[int]:
+    def getAverages(self, nums: List[int], k: int) -> List[int]:
+        # When a single element is considered then its average will be the number itself only.
+        if k == 0:
+            return nums
+
+        window_size = 2 * k + 1
         n = len(nums)
+        averages = [-1] * n
 
-        # default every index to -1; this handles the "not enough elements
-        # on one side" case automatically, no need for an explicit check later
-        avgs = [-1] * n
+        # Any index will not have 'k' elements in it's left and right.
+        if window_size > n:
+            return averages
 
-        # prefix[i] = sum of nums[0..i-1] (offset by one, so prefix[0] = 0
-        # represents the "empty" prefix before any elements are added)
+        # Generate 'prefix' array for 'nums'.
+        # 'prefix[i + 1]' will be sum of all elements of 'nums' from index '0' to 'i'.
         prefix = [0] * (n + 1)
         for i in range(n):
             prefix[i + 1] = prefix[i] + nums[i]
 
-        for i in range(n):
-            # only compute an average if there are at least k elements
-            # on BOTH sides of i (a full window can be centered here)
-            if i - k >= 0 and i + k <= n - 1:
-                # sum of nums[i-k .. i+k] using the prefix array:
-                # prefix[i+k+1] = sum of nums[0 .. i+k]
-                # prefix[i-k]   = sum of nums[0 .. i-k-1]
-                # subtracting removes everything before the window,
-                # leaving just the window's sum
-                window_sum = prefix[i + k + 1] - prefix[i - k]
+        # We iterate only on those indices which have atleast 'k' elements in their left and right.
+        # i.e. indices from 'k' to 'n - k'
+        for i in range(k, n - k):
+            leftBound, rightBound = i - k, i + k
+            subArraySum = prefix[rightBound + 1] - prefix[leftBound]
+            average = subArraySum // window_size
+            averages[i] = average
 
-                # window size is always 2k+1 elements (k on each side, plus i itself)
-                avgs[i] = window_sum // (2 * k + 1)
-
-        return avgs
+        return averages
