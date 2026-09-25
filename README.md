@@ -74,6 +74,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rudraagarwal01/swe-prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2270-number-of-ways-to-split-array](https://github.com/rudraagarwal01/swe-prep/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -213,6 +214,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
+| [2270-number-of-ways-to-split-array](https://github.com/rudraagarwal01/swe-prep/tree/master/2270-number-of-ways-to-split-array) |
 ## Design
 |  |
 | ------- |
