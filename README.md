@@ -74,6 +74,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rudraagarwal01/swe-prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0713-subarray-product-less-than-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rudraagarwal01/swe-prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
