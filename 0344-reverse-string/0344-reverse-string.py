@@ -6,9 +6,7 @@ class Solution:
 
         while left <= right:
             # swap left and right
-            temp = s[left]
-            s[left] = s[right]
-            s[right] = temp
+            s[left], s[right] = s[right], s[left]
 
             left += 1
             right -= 1
