@@ -10,7 +10,7 @@ class Solution:
         # cant split at the last index
         for i in range(len(nums) - 1):
             left_section = prefix[i]
-            # prefix[-1] is the last element
+            # prefix[-1] is the prefix at the last element
             right_section = prefix[-1] - prefix[i]
 
             if left_section >= right_section:
