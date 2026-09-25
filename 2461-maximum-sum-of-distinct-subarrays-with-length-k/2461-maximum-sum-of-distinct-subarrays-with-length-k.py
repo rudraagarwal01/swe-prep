@@ -1,5 +1,7 @@
 class Solution:
     def maximumSubarraySum(self, nums: list[int], k: int) -> int:
+        # must be distinct elements 
+        # can't use sliding window
         count = defaultdict(int)
         curr = 0
         ans = 0
