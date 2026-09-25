@@ -5,7 +5,7 @@ class Solution:
         right = len(s) - 1
 
         while left <= right:
-            # basically swap left and right
+            # swap left and right
             temp = s[left]
             s[left] = s[right]
             s[right] = temp
