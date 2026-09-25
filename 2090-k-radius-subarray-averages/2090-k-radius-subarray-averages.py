@@ -4,8 +4,10 @@ class Solution:
         if k == 0:
             return nums
 
+        # also the number used to calculate the avg
         window_size = 2 * k + 1
         n = len(nums)
+        # set all values to -1 default
         averages = [-1] * n
 
         # Any index will not have 'k' elements in it's left and right.
