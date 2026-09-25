@@ -71,6 +71,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1004-max-consecutive-ones-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rudraagarwal01/swe-prep/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/rudraagarwal01/swe-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rudraagarwal01/swe-prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -213,6 +214,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0713-subarray-product-less-than-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/rudraagarwal01/swe-prep/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 | [2270-number-of-ways-to-split-array](https://github.com/rudraagarwal01/swe-prep/tree/master/2270-number-of-ways-to-split-array) |
 ## Design
