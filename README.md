@@ -105,6 +105,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0917-reverse-only-letters](https://github.com/rudraagarwal01/swe-prep/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/rudraagarwal01/swe-prep/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
@@ -145,6 +146,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
