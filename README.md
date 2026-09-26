@@ -123,6 +123,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0066-plus-one](https://github.com/rudraagarwal01/swe-prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rudraagarwal01/swe-prep/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rudraagarwal01/swe-prep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -229,6 +230,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudraagarwal01/swe-prep/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/rudraagarwal01/swe-prep/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudraagarwal01/swe-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
@@ -390,4 +392,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rudraagarwal01/swe-prep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
