@@ -106,6 +106,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/rudraagarwal01/swe-prep/tree/master/2000-reverse-prefix-of-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
 ## Two Pointers
@@ -176,6 +178,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
