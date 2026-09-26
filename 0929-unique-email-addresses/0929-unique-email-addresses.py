@@ -1,23 +1,15 @@
 class Solution:
-    def numUniqueEmails(self, emails: list[str]) -> int:
-        seen = set()
-
+    def numUniqueEmails(self, emails: List[str]) -> int:
+        unique_emails = set()
         for email in emails:
-            curr_email = []
-            symbol = None
-            for char in email:
-                if symbol != '@' and char == '.':
-                    continue
-                elif char == '@':
-                    symbol = '@'
-                elif symbol != '@' and char == '+':
-                    symbol = '+'
-                
-                if symbol != '+':
-                    curr_email.append(char)
-            
-            seen.add("".join(curr_email))
+            # lets you split local name before @
+            # and domain name after @
+            local, domain = email.split('@')
+            # everything after + is ignored
+            local = local.split('+')[0]
+            # removes the .
+            local = local.replace('.', '')
+            # add al the emails to set
+            unique_emails.add((local, domain))
         
-        return len(seen)
-
-
+        return len(unique_emails)
