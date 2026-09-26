@@ -57,6 +57,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0238-product-of-array-except-self](https://github.com/rudraagarwal01/swe-prep/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rudraagarwal01/swe-prep/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rudraagarwal01/swe-prep/tree/master/0485-max-consecutive-ones) |
@@ -229,6 +230,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudraagarwal01/swe-prep/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudraagarwal01/swe-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rudraagarwal01/swe-prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -327,6 +329,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -379,4 +382,12 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0572-subtree-of-another-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
