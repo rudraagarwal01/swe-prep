@@ -69,6 +69,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rudraagarwal01/swe-prep/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/rudraagarwal01/swe-prep/tree/master/0875-koko-eating-bananas) |
+| [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
@@ -105,6 +106,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/rudraagarwal01/swe-prep/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -149,6 +151,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
+| [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
