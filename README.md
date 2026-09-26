@@ -63,6 +63,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0485-max-consecutive-ones](https://github.com/rudraagarwal01/swe-prep/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/rudraagarwal01/swe-prep/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudraagarwal01/swe-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rudraagarwal01/swe-prep/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rudraagarwal01/swe-prep/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0713-subarray-product-less-than-k) |
@@ -128,6 +129,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0070-climbing-stairs](https://github.com/rudraagarwal01/swe-prep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudraagarwal01/swe-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
 ## String Matching
 |  |
@@ -278,6 +280,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudraagarwal01/swe-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
