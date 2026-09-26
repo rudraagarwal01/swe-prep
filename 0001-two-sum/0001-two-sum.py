@@ -9,14 +9,19 @@
 
 class Solution:
     def twoSum(self, nums, target):
-        seen = {}
-
+        seen = {} # dictionary 
+        
+        # enumerate iterates and basically stores the index and number
+        # Key is the number(complement)
+        # Value is the index
         for i, num in enumerate(nums):
             complement = target - num
-
+            # Search in seen with complement
+            # if value exists return its index and curr index
             if complement in seen:
                 return [seen[complement], i]
-            else:
+            # if complement not in seen then store curr num in seen for future
+            else: 
                 seen[num] = i
 # O(N)
 
