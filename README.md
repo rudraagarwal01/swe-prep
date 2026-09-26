@@ -78,6 +78,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 | [2090-k-radius-subarray-averages](https://github.com/rudraagarwal01/swe-prep/tree/master/2090-k-radius-subarray-averages) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/rudraagarwal01/swe-prep/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
@@ -148,6 +149,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
@@ -268,6 +270,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -351,6 +354,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
