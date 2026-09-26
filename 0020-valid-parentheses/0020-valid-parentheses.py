@@ -6,21 +6,17 @@ class Solution:
         # key is close, value is open
         pairs = {')': '(', '}': '{', ']': '['}
 
-        for char in s:
-            # If the char is a closing bracket
-            # only checks the keys
-            if char in pairs:
-                # check if stack exists
+        for ch in s:
+            if ch in pairs:
                 if stack:
-                    element = stack.pop()
+                    elt = stack.pop()
                 else:
-                    element = ''
-                # if the top element is not equal to the value in pairs
-                # pairs[char] is value
-                if pairs[char] != element:
+                    elt = ''
+                
+                if elt != pairs[ch]:
                     return False
-            # char is opening bracket to add it to stack 
+            
             else:
-                stack.append(char)
-        # If the stack is empty, all brackets were matched.
+                stack.append(ch)
+        
         return not stack
