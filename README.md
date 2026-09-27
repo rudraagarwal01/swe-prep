@@ -50,6 +50,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudraagarwal01/swe-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0209-minimum-size-subarray-sum) |
@@ -100,6 +101,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0058-length-of-last-word](https://github.com/rudraagarwal01/swe-prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rudraagarwal01/swe-prep/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
@@ -119,6 +121,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rudraagarwal01/swe-prep/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudraagarwal01/swe-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/rudraagarwal01/swe-prep/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/rudraagarwal01/swe-prep/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0202-happy-number) |
@@ -240,6 +244,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0022-generate-parentheses](https://github.com/rudraagarwal01/swe-prep/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rudraagarwal01/swe-prep/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudraagarwal01/swe-prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rudraagarwal01/swe-prep/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -408,6 +413,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rudraagarwal01/swe-prep/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -416,4 +422,8 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rudraagarwal01/swe-prep/tree/master/0146-lru-cache) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
