@@ -10,12 +10,14 @@ class Solution:
     def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
         if not root:
             return []
-
+            
+        # return 2D array
         res = []
         queue = deque([root])
 
         while queue:
             level_size = len(queue)  # snapshot: how many nodes are in THIS level
+            # the values at each level
             level_values = []
 
             for _ in range(level_size):
