@@ -5,20 +5,19 @@ class Solution:
 
         # Use sliding window to find the difference each time
         max_profit = 0
+        n = len(prices)
         left = 0
         right = 1
 
-        while right < len(prices):
-            # if profit 
+        while right < n:
             if prices[left] < prices[right]:
                 profit = prices[right] - prices[left]
                 max_profit = max(max_profit, profit)
             else:
-                # if right finds a lower price then move the left pointer there
                 left = right
             right += 1
-
         return max_profit
+
 
 
             
