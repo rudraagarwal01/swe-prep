@@ -3,8 +3,7 @@ class Solution:
         # sort both strings and compare them
         if sorted(s) == sorted(t):
             return True
-        else:
-            return False
+        return False
 # O(n log n)
 
 
