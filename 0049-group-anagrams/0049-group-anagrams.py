@@ -3,7 +3,7 @@ class Solution:
         # create dict to store different groups of letters
         seen = {}
 
-        # use sorted to store the keys in alpha order
+        # use sorted to store the keys in alpha order 
         for word in strs:
             key = "".join(sorted(word))
 
@@ -16,3 +16,5 @@ class Solution:
                 
         # return the dict as a list
         return list(seen.values())
+
+                
