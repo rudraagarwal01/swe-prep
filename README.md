@@ -53,6 +53,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudraagarwal01/swe-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/rudraagarwal01/swe-prep/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rudraagarwal01/swe-prep/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rudraagarwal01/swe-prep/tree/master/0238-product-of-array-except-self) |
@@ -338,6 +339,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rudraagarwal01/swe-prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -348,6 +350,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rudraagarwal01/swe-prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rudraagarwal01/swe-prep/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/rudraagarwal01/swe-prep/tree/master/0322-coin-change) |
 ## Binary Tree
@@ -364,6 +367,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/rudraagarwal01/swe-prep/tree/master/0200-number-of-islands) |
 ## Manacher
 |  |
 | ------- |
@@ -391,6 +395,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/rudraagarwal01/swe-prep/tree/master/0200-number-of-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
