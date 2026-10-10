@@ -9,6 +9,7 @@ class Solution:
 
         freq = counts.values()
         # if all freq are the same then it will be one element in set
-        # if there are freq or 1, 2 then two elements and this condition will fail
+        # if there are freq of 1, 2 then this condition will fail
+        # set keeps only unique elements
         return len(set(freq)) == 1  
 
