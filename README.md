@@ -114,6 +114,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0917-reverse-only-letters](https://github.com/rudraagarwal01/swe-prep/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/rudraagarwal01/swe-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -162,6 +163,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
+| [1189-maximum-number-of-balloons](https://github.com/rudraagarwal01/swe-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -387,6 +389,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/rudraagarwal01/swe-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
