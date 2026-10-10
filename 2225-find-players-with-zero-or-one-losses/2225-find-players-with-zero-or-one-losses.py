@@ -1,6 +1,6 @@
 class Solution:
     def findWinners(self, matches: list[list[int]]) -> list[list[int]]:
-        losses = {}
+        losses = defaultdict(int)
 
         for winner, loser in matches:
             if winner not in losses:
