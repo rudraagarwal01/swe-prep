@@ -2,6 +2,7 @@ class Solution:
     def findWinners(self, matches: list[list[int]]) -> list[list[int]]:
         losses = defaultdict(int)
 
+        # allows you to take in matches[i] = [winneri, loseri]
         for winner, loser in matches:
             if winner not in losses:
                 losses[winner] = 0
