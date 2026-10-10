@@ -5,8 +5,8 @@ class Solution:
         for winner, loser in matches:
             if winner not in losses:
                 losses[winner] = 0
-            if loser not in losses:
-                losses[loser] = 0
+            # if loser not in losses:
+            #     losses[loser] = 0
             losses[loser] += 1
         
         zero_losses = []
