@@ -63,6 +63,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rudraagarwal01/swe-prep/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/rudraagarwal01/swe-prep/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudraagarwal01/swe-prep/tree/master/0628-maximum-product-of-three-numbers) |
@@ -161,6 +162,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/rudraagarwal01/swe-prep/tree/master/1189-maximum-number-of-balloons) |
@@ -258,6 +260,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rudraagarwal01/swe-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rudraagarwal01/swe-prep/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rudraagarwal01/swe-prep/tree/master/0724-find-pivot-index) |
