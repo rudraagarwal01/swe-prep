@@ -83,6 +83,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1732-find-the-highest-altitude](https://github.com/rudraagarwal01/swe-prep/tree/master/1732-find-the-highest-altitude) |
 | [2090-k-radius-subarray-averages](https://github.com/rudraagarwal01/swe-prep/tree/master/2090-k-radius-subarray-averages) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/rudraagarwal01/swe-prep/tree/master/2270-number-of-ways-to-split-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -165,6 +166,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rudraagarwal01/swe-prep/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -292,6 +294,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudraagarwal01/swe-prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
 |  |
@@ -385,6 +388,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
