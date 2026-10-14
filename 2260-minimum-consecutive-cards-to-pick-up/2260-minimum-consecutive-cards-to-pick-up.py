@@ -1,16 +1,14 @@
 class Solution:
     def minimumCardPickup(self, cards: list[int]) -> int:
-        dic = defaultdict(list)
-        for i in range(len(cards)):
-            dic[cards[i]].append(i)
-        
-        ans = float("inf")
-        for key in dic:
-            arr = dic[key]
-            for i in range(len(arr) - 1):
-                ans = min(ans, arr[i + 1] - arr[i] + 1)
+        seen = defaultdict(int)
+        ans = 10**5 + 1
 
-        return ans if ans < float("inf") else -1
+        for i, x in enumerate(cards):
+            if x in seen:
+                ans = min(ans, i - seen[x] + 1)
+            seen[x] = i
+
+        return ans if ans < 10**5 + 1 else -1
 
      
     
