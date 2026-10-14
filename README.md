@@ -88,6 +88,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudraagarwal01/swe-prep/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/rudraagarwal01/swe-prep/tree/master/2270-number-of-ways-to-split-array) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rudraagarwal01/swe-prep/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
 ## String
@@ -174,6 +175,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudraagarwal01/swe-prep/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rudraagarwal01/swe-prep/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
@@ -304,6 +306,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rudraagarwal01/swe-prep/tree/master/2248-intersection-of-multiple-arrays) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rudraagarwal01/swe-prep/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -387,6 +390,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rudraagarwal01/swe-prep/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
