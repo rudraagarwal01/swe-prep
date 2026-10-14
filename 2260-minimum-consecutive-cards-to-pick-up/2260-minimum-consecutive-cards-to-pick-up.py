@@ -7,7 +7,7 @@ class Solution:
             if x in seen:
                 ans = min(ans, i - seen[x] + 1)
             seen[x] = i
-
+        
         return ans if ans < 10**5 + 1 else -1
 
      
