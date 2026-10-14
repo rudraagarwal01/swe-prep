@@ -21,6 +21,7 @@ class Solution:
             if digit_sum in seen:
                 # add curr number plus other number that matches sum of digits
                 ans = max(ans, num + seen[digit_sum])
+                # keep only the larger number for future pairs
                 seen[digit_sum] = max(seen[digit_sum], num)
             else:
                 seen[digit_sum] = num
