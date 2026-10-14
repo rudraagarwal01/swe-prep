@@ -15,9 +15,11 @@ class Solution:
         ans = -1
 
         for num in nums:
+            # calls the helper to get the sum of digits
             digit_sum = get_sum(num)
 
             if digit_sum in seen:
+                # add curr number plus other number that matches sum of digits
                 ans = max(ans, num + seen[digit_sum])
                 seen[digit_sum] = max(seen[digit_sum], num)
             else:
