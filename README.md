@@ -89,6 +89,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudraagarwal01/swe-prep/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/rudraagarwal01/swe-prep/tree/master/2270-number-of-ways-to-split-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rudraagarwal01/swe-prep/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2352-equal-row-and-column-pairs](https://github.com/rudraagarwal01/swe-prep/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
 ## String
@@ -177,6 +178,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/rudraagarwal01/swe-prep/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rudraagarwal01/swe-prep/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/rudraagarwal01/swe-prep/tree/master/2351-first-letter-to-appear-twice) |
+| [2352-equal-row-and-column-pairs](https://github.com/rudraagarwal01/swe-prep/tree/master/2352-equal-row-and-column-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rudraagarwal01/swe-prep/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
 ## Two Pointers
@@ -214,6 +216,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0067-add-binary](https://github.com/rudraagarwal01/swe-prep/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
+| [2352-equal-row-and-column-pairs](https://github.com/rudraagarwal01/swe-prep/tree/master/2352-equal-row-and-column-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -382,6 +385,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rudraagarwal01/swe-prep/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rudraagarwal01/swe-prep/tree/master/0200-number-of-islands) |
+| [2352-equal-row-and-column-pairs](https://github.com/rudraagarwal01/swe-prep/tree/master/2352-equal-row-and-column-pairs) |
 ## Manacher
 |  |
 | ------- |
