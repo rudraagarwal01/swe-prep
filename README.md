@@ -114,6 +114,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/rudraagarwal01/swe-prep/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/rudraagarwal01/swe-prep/tree/master/0917-reverse-only-letters) |
@@ -169,6 +170,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rudraagarwal01/swe-prep/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/rudraagarwal01/swe-prep/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/rudraagarwal01/swe-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1207-unique-number-of-occurrences) |
