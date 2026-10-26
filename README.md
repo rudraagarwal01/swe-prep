@@ -110,6 +110,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0139-word-break](https://github.com/rudraagarwal01/swe-prep/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rudraagarwal01/swe-prep/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/rudraagarwal01/swe-prep/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rudraagarwal01/swe-prep/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rudraagarwal01/swe-prep/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -163,6 +164,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0242-valid-anagram](https://github.com/rudraagarwal01/swe-prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudraagarwal01/swe-prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/rudraagarwal01/swe-prep/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudraagarwal01/swe-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0525-contiguous-array) |
@@ -403,6 +405,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudraagarwal01/swe-prep/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/rudraagarwal01/swe-prep/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/rudraagarwal01/swe-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rudraagarwal01/swe-prep/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/rudraagarwal01/swe-prep/tree/master/2225-find-players-with-zero-or-one-losses) |
