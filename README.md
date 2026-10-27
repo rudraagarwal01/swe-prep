@@ -208,6 +208,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0977-squares-of-a-sorted-array](https://github.com/rudraagarwal01/swe-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/rudraagarwal01/swe-prep/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/rudraagarwal01/swe-prep/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -323,6 +324,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0234-palindrome-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/rudraagarwal01/swe-prep/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0206-reverse-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
