@@ -328,6 +328,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rudraagarwal01/swe-prep/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/rudraagarwal01/swe-prep/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/rudraagarwal01/swe-prep/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/rudraagarwal01/swe-prep/tree/master/0146-lru-cache) |
