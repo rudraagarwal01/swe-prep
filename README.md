@@ -119,6 +119,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/rudraagarwal01/swe-prep/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/rudraagarwal01/swe-prep/tree/master/0929-unique-email-addresses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudraagarwal01/swe-prep/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rudraagarwal01/swe-prep/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/rudraagarwal01/swe-prep/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/rudraagarwal01/swe-prep/tree/master/1768-merge-strings-alternately) |
@@ -323,6 +324,7 @@ Since LeetHub automatically pushes code into problem-specific folders, I maintai
 | [0155-min-stack](https://github.com/rudraagarwal01/swe-prep/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/rudraagarwal01/swe-prep/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudraagarwal01/swe-prep/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/rudraagarwal01/swe-prep/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rudraagarwal01/swe-prep/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
